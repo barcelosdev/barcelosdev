@@ -1,10 +1,10 @@
 ## Fala devs, me chamo Matheus!
-
 ## &#x1f4c8; GitHub Stats
 <div align="center"> 
+  
   <a href="https://github.com/barcelosguitar">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=barcelosguitar&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barcelosguitar&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=barcelosguitar&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barcelosguitar&layout=compact&langs_count=7&theme=react"/>
 </div>
   
 ## 💼 Skills
@@ -12,7 +12,8 @@
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="50" width="50" >
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="50" width="50">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/>
 </div>
 
 ## 📝Learning
