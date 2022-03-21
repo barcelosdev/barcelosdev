@@ -1,4 +1,3 @@
-## Fala devs, me chamo Matheus!
 ## &#x1f4c8; GitHub Stats
 <div align="center"> 
   
