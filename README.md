@@ -1,7 +1,7 @@
 # What's up, everybody!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Matheus%20Barcelos-0388A6?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-barcelos-39bbb2214/)](https://www.linkedin.com/in/matheus-barcelos-39bbb2214/) 
-[![Gmail Badge](https://img.shields.io/badge/-barcelosm1996@gmail.com-0388A6?style=flat&logo=Gmail&logoColor=white&link=mailto:barcelosm1996@gmail.com)](mailto:diego.schell.f@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Matheus%20Barcelos-328267?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-barcelos-39bbb2214/)](https://www.linkedin.com/in/matheus-barcelos-39bbb2214/) 
+[![Gmail Badge](https://img.shields.io/badge/-barcelosm1996@gmail.com-328267?style=flat&logo=Gmail&logoColor=white&link=mailto:barcelosm1996@gmail.com)](mailto:diego.schell.f@gmail.com)
 
 Full stack developer focusing on web development, mobile apps and microservices.
 
