@@ -1,6 +1,6 @@
 # What's up, folks
 
-Co-founder @eqrancreative ੶ Intern at Marques Consult
+Co-founder @eqrancreative · Intern at Marques Consult
 
 [![Linkedin Badge](https://img.shields.io/badge/-Matheus%20Barcelos-328267?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-barcelos-39bbb2214/)](https://www.linkedin.com/in/matheus-barcelos-39bbb2214/)
 [![Gmail Badge](https://img.shields.io/badge/-barcelosm1996@gmail.com-328267?style=flat-square&logo=Gmail&logoColor=white&link=mailto:barcelosm1996@gmail.com)](mailto:barcelosm1996@gmail.com)
