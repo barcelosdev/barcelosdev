@@ -2,7 +2,7 @@ Co-founder @eqrancreative
 
 [![Gmail Badge](https://img.shields.io/badge/-barcelosm1996@gmail.com-328267?style=flat-square&logo=Gmail&logoColor=white&link=mailto:barcelosm1996@gmail.com)](mailto:barcelosm1996@gmail.com)
 
-Over 2 years of experience as a Full Stack Developer, specializing in web development, APIs, and mobile app development.
+Over 2 years of experience as a Full Stack Developer, specializing in web development, APIs and React Native applications.
 
 <br/>
 
